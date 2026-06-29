@@ -6,7 +6,7 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
 import Footer from "./components/Footer";
-import "./app.css";
+import "./App.css";
 import GithubStats from "./components/GithubStatus";
 import CurrentlyWorking from "./components/CurrentlyWorking";
 import ScrollProgress from "./components/ScrollProgress";
