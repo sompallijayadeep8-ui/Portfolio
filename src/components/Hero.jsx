@@ -27,7 +27,7 @@ function Hero() {
             View Projects
           </a>
 
-          <a href="/Jayadeep_Naidu_Resume.pdf" className="btn secondary-btn" download>
+          <a href="resume/Jayadeep_Naidu_Resume.pdf" className="btn secondary-btn" download>
             Download Resume
           </a>
         </div>
